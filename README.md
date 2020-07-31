@@ -4,7 +4,7 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Sambhav<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambhav228" alt="sambhav228" /> </p>
 
-[![HitCount](http://hits.dwyl.com/sambhav228/sambhav228.svg)](http://hits.dwyl.com/sambhav228/sambhav228)
+
 
 I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL University 🤓
 
