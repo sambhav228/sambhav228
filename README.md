@@ -8,9 +8,9 @@
 
 I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL University 🤓
 
-- 🔭 I’m currently working on Open Sourse [Project](https://github.com/sambhav228/Stulysis)
-- 🌱 I’m currently learning about DS & Algo, Web Dev 
-- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev and Data Science
+- 🔭 I’m currently working on Open Source [Project](https://github.com/sambhav228/Stulysis)
+- 🌱 I’m currently learning about DS & Algo, Web Dev and Data Science
+- 👯 I’m looking to collaborate on Cpp and Basic Web Dev and Data Science & ML Projects
 - 🤔 I’m looking for help in learning more about Web Dev and JavaScript
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me:
@@ -19,7 +19,7 @@ I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL Uni
 ,[![Twitter Badge](https://img.shields.io/badge/-sambhav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sambhav228)](https://twitter.com/sambhav228)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-### Some stats about Raghav
+### Some stats about Sambhav
 <img alt="Sambhav's github stats" src="https://github-readme-stats.vercel.app/api?username=sambhav228&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 ⭐️ From [Sambhav228](https://github.com/sambhav228)
