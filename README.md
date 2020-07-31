@@ -17,7 +17,7 @@ I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL Uni
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sambhav228/)](https://www.linkedin.com/in/sambhav228/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sambhavkumar228@gmail.com)](mailto:sambhavkumar228@gmail.com)
 ,[![Twitter Badge](https://img.shields.io/badge/-sambhav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sambhav228)](https://twitter.com/sambhav228)
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: Hewlett-Packard’s (also known as HP) name was decided in a coin toss in 1939!! 
 
 ### Some stats about Sambhav
 <img alt="Sambhav's github stats" src="https://github-readme-stats.vercel.app/api?username=sambhav228&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
