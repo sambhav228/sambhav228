@@ -10,7 +10,7 @@ I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL Uni
 
 - 🔭 I’m currently working on Open Source [Project](https://github.com/sambhav228/Stulysis)
 - 🌱 I’m currently learning about DS & Algo, Web Dev and Data Science
-- 👯 I’m looking to collaborate on Cpp and Basic Web Dev and Data Science & ML Projects
+- 👯 I’m looking to collaborate on Cpp, Web Dev and Data Science & ML Projects
 - 🤔 I’m looking for help in learning more about Web Dev and JavaScript
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me:
