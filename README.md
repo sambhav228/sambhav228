@@ -3,7 +3,7 @@
 
 
 
-I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL University 🤓
+I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL University
 
 - 🔭 I’m currently working on Open Source [Project](https://github.com/sambhav228/Stulysis)
 - 🌱 I’m currently learning more about Web Dev and Data Science
